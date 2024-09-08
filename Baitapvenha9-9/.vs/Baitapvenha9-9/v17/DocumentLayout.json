@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\views\\tuan02\\maytinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\views\\tuan02\\maytinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\views\\tuan02\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\views\\tuan02\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\views\\tuan02\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\views\\tuan02\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\controllers\\tuan02controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\controllers\\tuan02controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEA8369-4EAE-4419-B42B-684210CDA6AC}|Solution Items{3BEA8369-4EAE-4419-B42B-684210CDA6AC}|D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3BEA8369-4EAE-4419-B42B-684210CDA6AC}|Solution Items{3BEA8369-4EAE-4419-B42B-684210CDA6AC}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|d:\\asp\\asp_web\\asp_web\\baitapvenha9-9\\baitapvenha9-9\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MayTinh.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Tuan02\\MayTinh.cshtml",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Tuan02\\MayTinh.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Tuan02\\MayTinh.cshtml",
+              "RelativeToolTip": "Baitapvenha9-9\\Views\\Tuan02\\MayTinh.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T16:40:54.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Tuan02\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Tuan02\\Profile.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Tuan02\\Profile.cshtml",
+              "RelativeToolTip": "Baitapvenha9-9\\Views\\Tuan02\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T16:40:05.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Baitapvenha9-9\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T16:24:17.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Baitapvenha9-9\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T16:20:09.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Baitapvenha9-9\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T16:20:08.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Baitapvenha9-9\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T16:46:30.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Baitapvenha9-9\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-07T16:37:13.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Baitapvenha9-9\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T16:36:57.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Baitapvenha9-9\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T16:36:35.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Tuan02\\Index.cshtml",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Tuan02\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Tuan02\\Index.cshtml",
+              "RelativeToolTip": "Baitapvenha9-9\\Views\\Tuan02\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T16:32:10.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tuan02Controller.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Controllers\\Tuan02Controller.cs",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Controllers\\Tuan02Controller.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Controllers\\Tuan02Controller.cs",
+              "RelativeToolTip": "Baitapvenha9-9\\Controllers\\Tuan02Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:30:08.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Baitapvenha9-9\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:07:52.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Baitapvenha9-9\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-07T16:36:08.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Baitapvenha9-9\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T16:35:31.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Baitapvenha9-9\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Baitapvenha9-9\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:33:57.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitapvenha9-9\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-07T16:35:17.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<header>
+    <h2>GIỚI THIỆU</h2>
+</header>
+
+<section>
+    <nav>
+        <ul>
+            <ul>
+                <li>@ViewBag.HoTen</li>
+                <li>@ViewBag.MSSV</li>
+                <li>@ViewData["Nam"]</li>
+            </ul>
+        </ul>
+    </nav>
+    <article>
+        <h1>Vu Minh Thuan</h1>
+        <p>------</p>
+        <img src="~/img/Thuan.jpg" style="width:100px;" />
+    </article>
+</section>
+
+<footer>
+    <p>Copyright &copy; Vu Minh Thuan - @DateTime.Now.Year</p>
+</footer>

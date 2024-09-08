@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Baitap05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6962951-7CF6-46E2-A16A-3A702DBD769E}|Baitap05\\Baitap05.csproj|c:\\users\\admin\\source\\repos\\baitap05\\baitap05\\views\\theloai\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6962951-7CF6-46E2-A16A-3A702DBD769E}|Baitap05\\Baitap05.csproj|solutionrelative:baitap05\\views\\theloai\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6962951-7CF6-46E2-A16A-3A702DBD769E}|Baitap05\\Baitap05.csproj|c:\\users\\admin\\source\\repos\\baitap05\\baitap05\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6962951-7CF6-46E2-A16A-3A702DBD769E}|Baitap05\\Baitap05.csproj|solutionrelative:baitap05\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6962951-7CF6-46E2-A16A-3A702DBD769E}|Baitap05\\Baitap05.csproj|c:\\users\\admin\\source\\repos\\baitap05\\baitap05\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E6962951-7CF6-46E2-A16A-3A702DBD769E}|Baitap05\\Baitap05.csproj|solutionrelative:baitap05\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6962951-7CF6-46E2-A16A-3A702DBD769E}|Baitap05\\Baitap05.csproj|c:\\users\\admin\\source\\repos\\baitap05\\baitap05\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6962951-7CF6-46E2-A16A-3A702DBD769E}|Baitap05\\Baitap05.csproj|solutionrelative:baitap05\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6962951-7CF6-46E2-A16A-3A702DBD769E}|Baitap05\\Baitap05.csproj|c:\\users\\admin\\source\\repos\\baitap05\\baitap05\\views\\theloai\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6962951-7CF6-46E2-A16A-3A702DBD769E}|Baitap05\\Baitap05.csproj|solutionrelative:baitap05\\views\\theloai\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6962951-7CF6-46E2-A16A-3A702DBD769E}|Baitap05\\Baitap05.csproj|c:\\users\\admin\\source\\repos\\baitap05\\baitap05\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6962951-7CF6-46E2-A16A-3A702DBD769E}|Baitap05\\Baitap05.csproj|solutionrelative:baitap05\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6962951-7CF6-46E2-A16A-3A702DBD769E}|Baitap05\\Baitap05.csproj|c:\\users\\admin\\source\\repos\\baitap05\\baitap05\\models\\theloaiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Baitap05\\Baitap05\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Baitap05\\Views\\Home\\Index.cshtml",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index2.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Baitap05\\Baitap05\\Views\\TheLoai\\Index2.cshtml",
               "RelativeDocumentMoniker": "Baitap05\\Views\\TheLoai\\Index2.cshtml",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Baitap05\\Baitap05\\Views\\TheLoai\\Index.cshtml",
               "RelativeDocumentMoniker": "Baitap05\\Views\\TheLoai\\Index.cshtml",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TheLoaiController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Baitap05\\Baitap05\\Controllers\\TheLoaiController.cs",
               "RelativeDocumentMoniker": "Baitap05\\Controllers\\TheLoaiController.cs",

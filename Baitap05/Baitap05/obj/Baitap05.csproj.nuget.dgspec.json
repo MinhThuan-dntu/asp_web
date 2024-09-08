@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Baitap05\\Baitap05\\Baitap05.csproj": {}
+    "D:\\ASP\\asp_web\\asp_web\\Baitap05\\Baitap05\\Baitap05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Baitap05\\Baitap05\\Baitap05.csproj": {
+    "D:\\ASP\\asp_web\\asp_web\\Baitap05\\Baitap05\\Baitap05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Baitap05\\Baitap05\\Baitap05.csproj",
+        "projectUniqueName": "D:\\ASP\\asp_web\\asp_web\\Baitap05\\Baitap05\\Baitap05.csproj",
         "projectName": "Baitap05",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Baitap05\\Baitap05\\Baitap05.csproj",
+        "projectPath": "D:\\ASP\\asp_web\\asp_web\\Baitap05\\Baitap05\\Baitap05.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Baitap05\\Baitap05\\obj\\",
+        "outputPath": "D:\\ASP\\asp_web\\asp_web\\Baitap05\\Baitap05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

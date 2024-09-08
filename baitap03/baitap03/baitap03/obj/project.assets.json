@@ -5778,11 +5778,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP\\asp_web\\baitap03\\baitap03\\baitap03\\baitap03.csproj",
+      "projectUniqueName": "D:\\ASP\\asp_web\\asp_web\\baitap03\\baitap03\\baitap03\\baitap03.csproj",
       "projectName": "baitap03",
-      "projectPath": "D:\\ASP\\asp_web\\baitap03\\baitap03\\baitap03\\baitap03.csproj",
+      "projectPath": "D:\\ASP\\asp_web\\asp_web\\baitap03\\baitap03\\baitap03\\baitap03.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP\\asp_web\\baitap03\\baitap03\\baitap03\\obj\\",
+      "outputPath": "D:\\ASP\\asp_web\\asp_web\\baitap03\\baitap03\\baitap03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
