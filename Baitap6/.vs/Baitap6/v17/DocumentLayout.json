@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\views\\shared\\layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\views\\shared\\layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\views\\shared\\layout2.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\views\\shared\\layout2.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\wwwroot\\js\\jquery-3.4.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\wwwroot\\js\\jquery-3.4.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\wwwroot\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\wwwroot\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|d:\\asp\\asp_web\\asp_web\\baitap6\\baitap6\\wwwroot\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{33AFA31C-5D50-4175-A47F-A66E9269DEBE}|Baitap6\\Baitap6.csproj|solutionrelative:baitap6\\wwwroot\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 148,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Baitap6\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Baitap6\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:08:36.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Baitap6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Baitap6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:08:34.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Layout2.cshtml.css",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Shared\\Layout2.cshtml.css",
+              "RelativeDocumentMoniker": "Baitap6\\Views\\Shared\\Layout2.cshtml.css",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Shared\\Layout2.cshtml.css",
+              "RelativeToolTip": "Baitap6\\Views\\Shared\\Layout2.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T08:06:44.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "jquery-3.4.1.min.js",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\wwwroot\\js\\jquery-3.4.1.min.js",
+              "RelativeDocumentMoniker": "Baitap6\\wwwroot\\js\\jquery-3.4.1.min.js",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\wwwroot\\js\\jquery-3.4.1.min.js",
+              "RelativeToolTip": "Baitap6\\wwwroot\\js\\jquery-3.4.1.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-09T07:49:39.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\wwwroot\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "Baitap6\\wwwroot\\js\\bootstrap.js",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\wwwroot\\js\\bootstrap.js",
+              "RelativeToolTip": "Baitap6\\wwwroot\\js\\bootstrap.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-09T07:49:39.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Baitap6\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Baitap6\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-09T07:49:37.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Baitap6\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Baitap6\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:32:52.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Baitap6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Baitap6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:32:49.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Baitap6\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Baitap6\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:32:48.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Layout2.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Shared\\Layout2.cshtml",
+              "RelativeDocumentMoniker": "Baitap6\\Views\\Shared\\Layout2.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Shared\\Layout2.cshtml",
+              "RelativeToolTip": "Baitap6\\Views\\Shared\\Layout2.cshtml",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAALMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:14:54.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Baitap6\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Baitap6\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:06:58.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Baitap6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Baitap6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:02:47.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Baitap6\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Baitap6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:49:30.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaiKhoanViewModel.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Models\\TaiKhoanViewModel.cs",
+              "RelativeDocumentMoniker": "Baitap6\\Models\\TaiKhoanViewModel.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Models\\TaiKhoanViewModel.cs",
+              "RelativeToolTip": "Baitap6\\Models\\TaiKhoanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:38:31.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Baitap6\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Baitap6\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:37:24.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Program.cs",
+              "RelativeDocumentMoniker": "Baitap6\\Program.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Program.cs",
+              "RelativeToolTip": "Baitap6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:36:07.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Baitap6\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeToolTip": "Baitap6\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T06:35:48.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "Baitap6\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "Baitap6\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:35:05.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\wwwroot\\.gitignore",
+              "RelativeDocumentMoniker": "Baitap6\\wwwroot\\.gitignore",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\Baitap6\\Baitap6\\wwwroot\\.gitignore",
+              "RelativeToolTip": "Baitap6\\wwwroot\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T06:33:57.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
