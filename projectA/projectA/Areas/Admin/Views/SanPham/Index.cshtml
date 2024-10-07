@@ -1,0 +1,74 @@
+﻿﻿<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+@{
+    ViewData["Title"] = "Index";
+}
+@model IEnumerable<SanPhamViewModel>
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên Sản Phẩm</th>
+                <th>Mô tả</th>
+                <th>Giá</th>
+                <th>Hình Ảnh</th>
+                <th>Thể Loại</th>
+                <th>Chức Năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in @Model)
+            {
+                <tr>
+                    <td>
+                        @item.Name
+                    </td>
+                    <td>
+                        @item.Description
+                    </td>
+                    <td>
+                        @item.price
+                    </td>
+                    <td>
+                        <img src="@item.ImageUrl" alt="Ảnh sản phẩm" class="img-thumbnail" width=200px height="200px" />
+                    </td>
+                    <td>
+                        @item.TheLoai.Name
+                    </td>
+                    <td>
+                        <a asp-action="Upsert" asp-route-id="@item.Id">Sua</a>|
+                        <a asp-action="DetaI" asp-route-id="@item.Id">Detail</a>
+                        <a class="text-danger" class="btn btn-primary" onclick="confirmDelete(@item.Id,$(this))">Deleted</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller="SanPham" asp-action="Upsert" class="btn btn-primary">Thêm Mới</a>
+</div>
+<script>
+    var confirmDelete = (id, row) => {
+        // Sử dụng hàm confirm đúng
+        if (confirm("Bạn có chắc chắn muốn xóa không?")) {
+            xoa(id, $(row));
+        }
+    };
+    function xoa(id, row) {
+        $.ajax({
+            url: `/Admin/SanPham/Deleted/${id}`,
+            type: "POST",
+            success: function (data) {
+                if (data.success) {
+                    // nếu xóa thành công, xóa dòng trong bảng
+                    row.closest("tr").remove();
+                } else {
+                    // nếu có lỗi từ server, hiển thị thông báo lỗi
+                    alert(data.message);
+                }
+            },
+            error: function (xhr, status, error) {
+                // xử lý lỗi khi ajax gặp sự cố
+                alert("xóa thất bại: " + error);
+            }
+        })
+    }
+</script>
