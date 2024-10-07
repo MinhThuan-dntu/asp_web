@@ -1,0 +1,679 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\wwwroot\\anhchup\\z5905281575158_7bbb26abcfb90e93238fe3799c27334f.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\wwwroot\\anhchup\\z5905281575158_7bbb26abcfb90e93238fe3799c27334f.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\admin\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\admin\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\admin\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\admin\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\admin\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\admin\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\admin\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\admin\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\admin\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\admin\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\admin\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\admin\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\admin\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\admin\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\customer\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\customer\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\admin\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\admin\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\admin\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\admin\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\admin\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\admin\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\admin\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\admin\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\areas\\admin\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\areas\\admin\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\data\\migrations\\20241007070611_baikiemtra32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\data\\migrations\\20241007070611_baikiemtra32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\data\\migrations\\20241007070305_544.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\data\\migrations\\20241007070305_544.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\data\\migrations\\20241007070130_baikiemtra03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\data\\migrations\\20241007070130_baikiemtra03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\data\\migrations\\20241007081717_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\data\\migrations\\20241007081717_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\data\\migrations\\20241007081329_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\data\\migrations\\20241007081329_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\asp\\asp_web\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\data\\migrations\\20241007081139_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23064827-69B0-4667-99CB-6B501BAA9808}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\data\\migrations\\20241007081139_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "z5905281575158_7bbb26abcfb90e93238fe3799c27334f.jpg -  [English (United States)] - Bitmap [1919x1069, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\wwwroot\\AnhChup\\z5905281575158_7bbb26abcfb90e93238fe3799c27334f.jpg",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\wwwroot\\AnhChup\\z5905281575158_7bbb26abcfb90e93238fe3799c27334f.jpg",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\wwwroot\\AnhChup\\z5905281575158_7bbb26abcfb90e93238fe3799c27334f.jpg -  [English (United States)] - Bitmap [1919x1069, 24 bit, JPG]",
+              "RelativeToolTip": "BaiKiemTra03_02\\wwwroot\\AnhChup\\z5905281575158_7bbb26abcfb90e93238fe3799c27334f.jpg -  [English (United States)] - Bitmap [1919x1069, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-07T08:24:46.258Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [1919x1069, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Edit.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Edit.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:22:22.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241007081717_6.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007081717_6.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Data\\Migrations\\20241007081717_6.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007081717_6.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Data\\Migrations\\20241007081717_6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:17:17.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:14:58.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241007081329_2.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007081329_2.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Data\\Migrations\\20241007081329_2.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007081329_2.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Data\\Migrations\\20241007081329_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:13:29.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241007081139_1.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007081139_1.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Data\\Migrations\\20241007081139_1.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007081139_1.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Data\\Migrations\\20241007081139_1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:11:39.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Customer\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Customer\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Customer\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Customer\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:53:54.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Admin\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Admin\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:46:38.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Admin\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Admin\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowGoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:46:33.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:45:40.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:44:40.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Details.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Details.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Details.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:41:04.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Delete.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Delete.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:41:03.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "BaiKiemTra03_02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AgIAAMQDAAAAAAAAAAAwwNIDAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-07T07:40:19.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "BaiKiemTra03_02\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAALYAAAAAAAAAAAAowBABAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-07T07:39:12.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:38:10.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAAKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:37:40.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:36:23.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:35:34.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Applicationuser.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Applicationuser.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Models\\Applicationuser.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Applicationuser.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Models\\Applicationuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:29:35.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:27:29.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:26:39.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:25:49.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:25:40.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:21:58.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Create.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Create.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Create.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:21:44.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Index.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Authors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:21:28.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:20:53.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Details.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:20:39.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Create.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:19:36.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Areas\\Admin\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:17:53.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BaiKiemTra03_02\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-07T07:11:14.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241007070611_Baikiemtra32.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007070611_Baikiemtra32.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Data\\Migrations\\20241007070611_Baikiemtra32.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007070611_Baikiemtra32.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Data\\Migrations\\20241007070611_Baikiemtra32.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:06:12.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241007070305_544.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007070305_544.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Data\\Migrations\\20241007070305_544.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007070305_544.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Data\\Migrations\\20241007070305_544.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:03:05.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241007070130_BaiKiemTra03.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007070130_BaiKiemTra03.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Data\\Migrations\\20241007070130_BaiKiemTra03.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007070130_BaiKiemTra03.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Data\\Migrations\\20241007070130_BaiKiemTra03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:01:31.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:57:21.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Models\\Author.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Author.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:56:24.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Models\\Book.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Book.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:56:08.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\appsettings.json",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\appsettings.json",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\appsettings.json",
+              "RelativeToolTip": "BaiKiemTra03_02\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T06:51:48.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Program.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Program.cs",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Program.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:51:34.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\.gitignore",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\.gitignore",
+              "ToolTip": "D:\\ASP\\asp_web\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\.gitignore",
+              "RelativeToolTip": "BaiKiemTra03_02\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T06:51:27.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

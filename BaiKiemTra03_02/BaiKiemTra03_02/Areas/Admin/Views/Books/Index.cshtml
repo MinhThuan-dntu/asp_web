@@ -1,0 +1,80 @@
+﻿@model IEnumerable<BaiKiemTra03_02.Models.Book>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PublicationYear)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PublicationYear)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author.AuthorName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.BookId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.BookId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.BookId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+    <script>
+        function confirmDelete(id, row) {
+            if (confirm("Ban co chac chan muon xoa?")) {
+                xoa(id, $(row))
+            }
+        }
+        function xoa(idx, row) {
+            $.ajax({
+                url: `SanPham/Delete`,
+                type: 'POST',
+                data: { id: idx },
+                success: function (data) {
+                    if (data.success) {
+                        // nếu xóa thành công, xóa dòng trong bảng
+                        row.closest("tr").remove();
+                    } else {
+                        // nếu có lỗi từ server, hiển thị thông báo lỗi
+                        alert(data.message);
+                    }
+                },
+                error: function (xhr, status, error) {
+                    // xử lý lỗi khi ajax gặp sự cố
+                    alert("xóa thất bại: " + error);
+                }
+            })
+        }
+    </script>
+</table>
