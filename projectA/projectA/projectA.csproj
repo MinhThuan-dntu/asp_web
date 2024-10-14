@@ -1,10 +1,10 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-projectA-cf5cd4aa-7040-407e-8b4f-f7ee4fd12a95</UserSecretsId>
+    <UserSecretsId>aspnet-projectA-87a995c3-eecd-4c60-841e-3f69dc5af032</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -20,6 +20,11 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Controllers\" />
+    <Folder Include="Areas\Customer\Controllers\" />
   </ItemGroup>
 
 </Project>

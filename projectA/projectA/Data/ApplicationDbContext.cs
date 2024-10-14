@@ -10,9 +10,8 @@ namespace projectA.Data
             : base(options)
         {
         }
-        public DbSet<TheLoaiViewModel> TheLoai { get; set; }
-        public DbSet<SanPhamViewModel> SanPham { get; set; }
-
-        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+        public DbSet<TheLoai> TheLoai { get; set; }
+        public DbSet<SanPham> SanPham { get; set; }
+        public DbSet<ApplicationUser> ApplicationUser { get; set; }
     }
 }

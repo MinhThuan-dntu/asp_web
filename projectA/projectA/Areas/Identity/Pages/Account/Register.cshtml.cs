@@ -20,15 +20,13 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
-using Microsoft.Identity.Client;
 using projectA.Models;
 
 namespace projectA.Areas.Identity.Pages.Account
 {
-
+    
     public class RegisterModel : PageModel
     {
-
         private readonly SignInManager<IdentityUser> _signInManager;
         private readonly UserManager<IdentityUser> _userManager;
         private readonly IUserStore<IdentityUser> _userStore;
@@ -106,9 +104,9 @@ namespace projectA.Areas.Identity.Pages.Account
             [Display(Name = "Confirm password")]
             [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
             public string ConfirmPassword { get; set; }
-            public string name { get; set; }
-            public string Address { get; set; }
-            public string? Role { get; set; }
+            public string Name  { get; set; }
+            public string? Address  { get; set; }
+            public string? Role     { get; set; }
             [ValidateNever]
             public IEnumerable<SelectListItem> RoleList { get; set; }
         }
@@ -116,11 +114,11 @@ namespace projectA.Areas.Identity.Pages.Account
 
         public async Task OnGetAsync(string returnUrl = null)
         {
-            if (!_roleManager.RoleExistsAsync("Admin").GetAwaiter().GetResult())
+           if(!_roleManager.RoleExistsAsync("Admin").GetAwaiter().GetResult())
             {
-                _roleManager.CreateAsync(new IdentityRole("Admin")).GetAwaiter().GetResult(); ;
-                _roleManager.CreateAsync(new IdentityRole("User")).GetAwaiter().GetResult(); ;
-            }
+                _roleManager.CreateAsync(new IdentityRole("Admin")).GetAwaiter().GetResult();
+                _roleManager.CreateAsync(new IdentityRole("User")).GetAwaiter().GetResult();
+            }    
             ReturnUrl = returnUrl;
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
             Input = new InputModel()
@@ -128,9 +126,8 @@ namespace projectA.Areas.Identity.Pages.Account
                 RoleList = _roleManager.Roles.Select(x => new SelectListItem
                 {
                     Text = x.Name,
-                    Value = x.Name,
-                }),
-
+                    Value = x.Name
+                })
             };
         }
 
@@ -141,12 +138,12 @@ namespace projectA.Areas.Identity.Pages.Account
             if (ModelState.IsValid)
             {
                 var user = CreateUser();
-
+                
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
+                user.Name = Input.Name;
+                user.Address = Input.Address;    
 
-                user.Name = Input.name;
-                user.Address = Input.Address;
                 var result = await _userManager.CreateAsync(user, Input.Password);
 
                 if (result.Succeeded)
@@ -162,7 +159,7 @@ namespace projectA.Areas.Identity.Pages.Account
                     _logger.LogInformation("User created a new account with password.");
 
                     var userId = await _userManager.GetUserIdAsync(user);
-                    var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);
+                    var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);                   
                     code = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(code));
                     var callbackUrl = Url.Page(
                         "/Account/ConfirmEmail",

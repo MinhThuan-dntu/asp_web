@@ -26,8 +26,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\ASP\asp_web\asp_web\projectA\projectA
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Admin/Views/SanPham/detai.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxkZXRhaS5jc2h0bWw=
+[D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Admin/Views/SanPham/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Admin/Views/SanPham/Index.cshtml]
@@ -46,8 +46,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Admin/Views/TheLoai/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxEZXRhaWxzLmNzaHRtbA==
+[D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Admin/Views/TheLoai/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Admin/Views/TheLoai/Edit.cshtml]
@@ -66,16 +66,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Customer/View/Home/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld1xIb21lXERldGFpbHMuY3NodG1s
+[D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Customer/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Customer/View/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld1xIb21lXEluZGV4LmNzaHRtbA==
+[D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Customer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Customer/View/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld1xIb21lXFByaXZhY3kuY3NodG1s
+[D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Customer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Customer/_ViewImports.cshtml]
@@ -246,12 +246,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP/asp_web/asp_web/projectA/projectA/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Identity/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP/asp_web/asp_web/projectA/projectA/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/ASP/asp_web/asp_web/projectA/projectA/Areas/Identity/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP/asp_web/asp_web/projectA/projectA/Views/Shared/Components/TheLoai/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGhlTG9haVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ASP/asp_web/asp_web/projectA/projectA/Views/Shared/Error.cshtml]

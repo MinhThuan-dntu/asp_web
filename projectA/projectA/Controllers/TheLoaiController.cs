@@ -1,12 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Authorization;
-using projectA.Data;
+﻿using projectA.Data;
 using projectA.Models;
+using Microsoft.AspNetCore.Mvc;
 
-namespace projectA.Admin.Controllers
+namespace projectA.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = "Admin")]
     public class TheLoaiController : Controller
     {
         private readonly ApplicationDbContext _db;
@@ -14,29 +12,35 @@ namespace projectA.Admin.Controllers
         {
             _db = db;
         }
-        [HttpGet]
-        public IActionResult Create()
-        {
-            return View();
-        }
-        [HttpPost]
-        public IActionResult Create(TheLoaiViewModel theloai)
-        {
-            if (ModelState.IsValid)
-            {
-                _db.TheLoai.Add(theloai);
-                _db.SaveChanges();
-                return RedirectToAction("Index");
-
-            }
-            return View();
-        }
         public IActionResult Index()
         {
             var theloai = _db.TheLoai.ToList();
             ViewBag.TheLoai = theloai;
             return View();
         }
+
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create(TheLoai theloai)
+        {
+            if (ModelState.IsValid)
+            {
+                // Thêm thông tin vào bảng TheLoai
+                _db.TheLoai.Add(theloai);
+                // Lưu lại
+                _db.SaveChanges();
+                // Chuyển trang về index
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+
+
         [HttpGet]
         public IActionResult Edit(int id)
         {
@@ -47,19 +51,24 @@ namespace projectA.Admin.Controllers
             var theloai = _db.TheLoai.Find(id);
             return View(theloai);
         }
+
         [HttpPost]
-        public IActionResult Edit(TheLoaiViewModel theloai)
+        public IActionResult Edit(TheLoai theloai)
         {
             if (ModelState.IsValid)
             {
+                // Thêm thông tin vào bảng TheLoai
                 _db.TheLoai.Update(theloai);
+                // Lưu lại
                 _db.SaveChanges();
+                // Chuyển trang về index
                 return RedirectToAction("Index");
             }
             return View();
         }
+
         [HttpGet]
-        public IActionResult Deleted(int id)
+        public IActionResult Delete(int id)
         {
             if (id == 0)
             {
@@ -68,8 +77,9 @@ namespace projectA.Admin.Controllers
             var theloai = _db.TheLoai.Find(id);
             return View(theloai);
         }
+
         [HttpPost]
-        public IActionResult DeletedConfirm(int id)
+        public IActionResult DeleteConfirm(int id)
         {
             var theloai = _db.TheLoai.Find(id);
             if (theloai == null)
@@ -80,8 +90,9 @@ namespace projectA.Admin.Controllers
             _db.SaveChanges();
             return RedirectToAction("Index");
         }
+
         [HttpGet]
-        public IActionResult details(int id)
+        public IActionResult Detail(int id)
         {
             if (id == 0)
             {
@@ -90,25 +101,25 @@ namespace projectA.Admin.Controllers
             var theloai = _db.TheLoai.Find(id);
             return View(theloai);
         }
-        [HttpGet]
-        public IActionResult Search(String search)
-        {
-            if (!string.IsNullOrEmpty(search))
-            {
-                var theloai = _db.TheLoai.Where(tl => tl.Name
-                .Contains(search)).ToList();
-                ViewBag.Search = search;
-                ViewBag.TheLoai = theloai;
 
+        [HttpGet]
+        public IActionResult Search(string searchString)
+        {
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                // Sử dụng LinQ để tìm kiếm
+                var theloai = _db.TheLoai
+                    .Where(tl => tl.Name.Contains(searchString))
+                    .ToList();
+                ViewBag.searchString = searchString;
+                ViewBag.TheLoai = theloai;
             }
             else
             {
                 var theloai = _db.TheLoai.ToList();
                 ViewBag.TheLoai = theloai;
             }
-            return View("Index");
+            return View("Index"); // Sử  dụng lại View Index
         }
-
-
     }
 }

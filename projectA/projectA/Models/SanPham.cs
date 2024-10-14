@@ -1,17 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
-using projectA.Models;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace projectA.Models
 {
-    public class SanPhamViewModel
+    public class SanPham
     {
         [Key]
         public int Id { get; set; }
         [Required]
         public string Name { get; set; }
-        [Required]
+        [Required]  
         public double price { get; set; }
         public string? Description { get; set; }
         public string? ImageUrl { get; set; }
@@ -19,7 +18,6 @@ namespace projectA.Models
         public int TheLoaiId { get; set; }
         [ForeignKey("TheLoaiId")]
         [ValidateNever]
-        public TheLoaiViewModel TheLoai { get; set; }
-
+        public TheLoai TheLoai { get; set; }
     }
 }

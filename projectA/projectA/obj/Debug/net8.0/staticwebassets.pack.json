@@ -5,12 +5,32 @@
       "PackagePath": "staticwebassets\\projectA.bundle.scp.css"
     },
     {
+      "Id": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\css\\1.css",
+      "PackagePath": "staticwebassets\\css\\1.css"
+    },
+    {
       "Id": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\img\\1.jfif",
+      "PackagePath": "staticwebassets\\img\\1.jfif"
+    },
+    {
+      "Id": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\img\\2.jfif",
+      "PackagePath": "staticwebassets\\img\\2.jfif"
+    },
+    {
+      "Id": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\js\\1.js",
+      "PackagePath": "staticwebassets\\js\\1.js"
     },
     {
       "Id": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\js\\site.js",

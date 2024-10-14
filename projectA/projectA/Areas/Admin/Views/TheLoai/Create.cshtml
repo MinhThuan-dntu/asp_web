@@ -1,27 +1,23 @@
-﻿﻿
-@{
-    ViewData["Title"] = "Create";
-}
-@model TheLoaiViewModel;
+﻿@model projectA.Models.TheLoai
+
 <div class="container">
-    <h3>Thêm Thể Loại</h3>
+    <h3>Thêm thể loại</h3>
+    <div asp-validation-summary="All" class="text-danger"></div>
     <form method="post">
-        <div class="text-danger" asp-validation-summary="All"></div>
         <div class="form-group">
-            <label asp-for="Name">Tên Thể Loại</label>
+            <label asp-for="Name">Tên thể loại</label>
             <input asp-for="Name" type="text" class="form-control" />
-            <span asp-validation-for="Name" class="text-danger" />
+            <span asp-validation-for="Name" class="text-danger"></span>
         </div>
         <div class="form-group">
             <label asp-for="DateCreated">Ngày tạo</label>
             <input asp-for="DateCreated" type="date" class="form-control" />
-            <span asp-validation-for="DateCreated" class="text-danger" />
+            <span asp-validation-for="DateCreated" class="text-danger"></span>
         </div>
-        <a asp-controller="TheLoai" asp-action="Index" class="btn btn-primary">Quay về</a>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <button type="submit" class="btn btn-primary">Tạo mới</button>
     </form>
-
 </div>
+
 @section Scripts {
     @{
         <partial name="_ValidationScriptsPartial" />

@@ -176,12 +176,10 @@ namespace projectA.Migrations
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderKey")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderDisplayName")
                         .HasColumnType("nvarchar(max)");
@@ -218,12 +216,10 @@ namespace projectA.Migrations
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Name")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Value")
                         .HasColumnType("nvarchar(max)");
@@ -233,7 +229,7 @@ namespace projectA.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("projectA.Models.SanPhamViewModel", b =>
+            modelBuilder.Entity("projectA.Models.SanPham", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -264,7 +260,7 @@ namespace projectA.Migrations
                     b.ToTable("SanPham");
                 });
 
-            modelBuilder.Entity("projectA.Models.TheLoaiViewModel", b =>
+            modelBuilder.Entity("projectA.Models.TheLoai", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -277,8 +273,8 @@ namespace projectA.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasMaxLength(8)
-                        .HasColumnType("nvarchar(8)");
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
 
                     b.HasKey("Id");
 
@@ -350,9 +346,9 @@ namespace projectA.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("projectA.Models.SanPhamViewModel", b =>
+            modelBuilder.Entity("projectA.Models.SanPham", b =>
                 {
-                    b.HasOne("projectA.Models.TheLoaiViewModel", "TheLoai")
+                    b.HasOne("projectA.Models.TheLoai", "TheLoai")
                         .WithMany()
                         .HasForeignKey("TheLoaiId")
                         .OnDelete(DeleteBehavior.Cascade)
