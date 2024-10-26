@@ -11,10 +11,12 @@ namespace BaiTap07a.Controllers
         {
             _db = db;
         }
+
         public IActionResult Index()
         {
-            var theloai = _db.TheLoai.ToList();
+            var theloai = _db.Loai.ToList();
             ViewBag.TheLoai = theloai;
+
             return View();
         }
 
@@ -29,16 +31,12 @@ namespace BaiTap07a.Controllers
         {
             if (ModelState.IsValid)
             {
-                // Thêm thông tin vào bảng TheLoai
-                _db.TheLoai.Add(theloai);
-                // Lưu lại
+                _db.Loai.Add(theloai);
                 _db.SaveChanges();
-                // Chuyển trang về index
                 return RedirectToAction("Index");
             }
             return View();
         }
-
 
         [HttpGet]
         public IActionResult Edit(int id)
@@ -47,7 +45,7 @@ namespace BaiTap07a.Controllers
             {
                 return NotFound();
             }
-            var theloai = _db.TheLoai.Find(id);
+            var theloai = _db.Loai.Find(id);
             return View(theloai);
         }
 
@@ -57,7 +55,7 @@ namespace BaiTap07a.Controllers
             if (ModelState.IsValid)
             {
                 // Thêm thông tin vào bảng TheLoai
-                _db.TheLoai.Update(theloai);
+                _db.Loai.Update(theloai);
                 // Lưu lại
                 _db.SaveChanges();
                 // Chuyển trang về index
@@ -73,21 +71,54 @@ namespace BaiTap07a.Controllers
             {
                 return NotFound();
             }
-            var theloai = _db.TheLoai.Find(id);
+            var theloai = _db.Loai.Find(id);
             return View(theloai);
         }
+
 
         [HttpPost]
         public IActionResult DeleteConfirm(int id)
         {
-            var theloai = _db.TheLoai.Find(id);
+            var theloai = _db.Loai.Find(id);
             if (theloai == null)
             {
                 return NotFound();
             }
-            _db.TheLoai.Remove(theloai);
+            _db.Loai.Remove(theloai);
             _db.SaveChanges();
             return RedirectToAction("Index");
         }
+
+        [HttpGet]
+        public IActionResult Detail(int id)
+        {
+            if (id == 0)
+            {
+                return NotFound();
+            }
+            var theloai = _db.Loai.Find(id);
+            return View(theloai);
+        }
+
+        public IActionResult Search(string searchString)
+        {
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                var theloai = _db.Loai
+                   .Where(tl => tl.Name.Contains(searchString))
+                   .ToList();
+
+                ViewBag.SearchString = searchString;
+                ViewBag.TheLoai = theloai;
+            }
+            else
+            {
+                var theloai = _db.Loai.ToList();
+                ViewBag.Loai = theloai;
+            }
+            return View("Index");
+        }
+
     }
+
 }

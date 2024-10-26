@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\1.css"
     },
     {
+      "Id": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\css\\2.css",
+      "PackagePath": "staticwebassets\\css\\2.css"
+    },
+    {
       "Id": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -27,6 +31,10 @@
     {
       "Id": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\img\\3.jpg",
       "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\img\\4.png",
+      "PackagePath": "staticwebassets\\img\\4.png"
     },
     {
       "Id": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\js\\1.js",

@@ -1,8 +1,10 @@
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using projectA.Data;
 using projectA.Models;
 using System.Diagnostics;
+using System.Security.Claims;
 
 namespace projectA.Controllers
 {
@@ -33,16 +35,50 @@ namespace projectA.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
-
         [HttpGet]
-        public IActionResult Details(int id)
+        public IActionResult Details(int sanphamId)
+		{
+			GioHang giohang = new GioHang()
+			{
+				SanPhamId = sanphamId,
+				SanPham = _db.SanPham.Include("TheLoai").FirstOrDefault(sp => sp.Id == sanphamId),
+				Quantity = 1
+			};
+			return View(giohang);
+		}
+        [HttpPost]
+        [Authorize]
+        public IActionResult Details(GioHang giohang)
+
         {
-            SanPham sanpham = new SanPham();
+            // Lay thong tin tai khoan
+            var identity = (ClaimsIdentity)User.Identity;
+            var claim = identity.FindFirst(ClaimTypes.NameIdentifier);
+            giohang.ApplicationUserId = claim.Value;
+            // Kiểm tra sản phẩm đã có trong cơ sở dữ liệu hay chưa?
+            var giohangdb = _db.GioHang.FirstOrDefault(gh => gh.SanPhamId == giohang.SanPhamId
+       && gh.ApplicationUserId == giohang.ApplicationUserId);
+            if (giohangdb == null)
 
-            sanpham = _db.SanPham.Include(sp => sp.TheLoai).FirstOrDefault(sp => sp.Id == id);
+            {
+                _db.GioHang.Add(giohang); // Them san pham vao gio hang
+            }
+            else
+            {
 
-            return View(sanpham);
+                giohangdb.Quantity += giohang.Quantity;
+
+            }
+
+            // Them san pham vao gio hang
+
+            _db.SaveChanges();
+
+            return RedirectToAction("Index");
+
         }
+
+
 
         [HttpGet]
         public IActionResult FillterByTheLoai(int id)

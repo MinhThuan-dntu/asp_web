@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BRCzOx/wpgXrK/EvMNQhbSmT/xK46SXuplQtKWShPo4=",
+  "Hash": "t/476L1k9RF4HaMUUZEqMXupgHe6hfPOi8wCh6xLnvE=",
   "Source": "projectA",
   "BasePath": "_content/projectA",
   "Mode": "Default",
@@ -1214,6 +1214,25 @@
       "OriginalItemSpec": "wwwroot\\css\\1.css"
     },
     {
+      "Identity": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\css\\2.css",
+      "SourceId": "projectA",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\",
+      "BasePath": "_content/projectA",
+      "RelativePath": "css/2.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\2.css"
+    },
+    {
       "Identity": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\css\\site.css",
       "SourceId": "projectA",
       "SourceType": "Discovered",
@@ -1307,6 +1326,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\3.jpg"
+    },
+    {
+      "Identity": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\img\\4.png",
+      "SourceId": "projectA",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\",
+      "BasePath": "_content/projectA",
+      "RelativePath": "img/4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\4.png"
     },
     {
       "Identity": "D:\\ASP\\asp_web\\asp_web\\projectA\\projectA\\wwwroot\\js\\1.js",
